@@ -24,21 +24,23 @@
 ![image](https://user-images.githubusercontent.com/83954540/143733322-f69d9fef-c9aa-41bc-9693-32b8e39e5438.png)
 - - - 
 ### 프로세스 개요 
-**컨텐츠 메타 데이터**
+**1. 컨텐츠 메타 데이터**
 
 ![image](https://user-images.githubusercontent.com/83954540/143733358-8097dd0b-4bcd-44fe-bd4a-ce7384aa50aa.png)
 ![image](https://user-images.githubusercontent.com/83954540/143733373-1e067a1e-51e7-496a-960d-c3056c475184.png)
 ![image](https://user-images.githubusercontent.com/83954540/143733384-f59e80d9-4cac-4385-833b-58e25dfc5fff.png)
 - - -
 
-**사용자 행동 데이터**
+**2. 사용자 행동 데이터**
 ![image](https://user-images.githubusercontent.com/83954540/143733421-366248e6-9bb0-45d7-b62b-0c9e1c6fce5a.png)
 ![image](https://user-images.githubusercontent.com/83954540/143733413-acba7786-4618-4336-8eca-77093f32da98.png)
 ![image](https://user-images.githubusercontent.com/83954540/143733432-3656aef1-0f66-47b3-85b8-0610d597a0a3.png)
 - - - 
 
-**결과 앙상블** 
+**3. 결과 앙상블**
+
 ![image](https://user-images.githubusercontent.com/83954540/143733449-7086afb6-f347-4cbc-ba74-ac128a7d783a.png)
+
 - - - 
 
 ### 보완 사항
@@ -62,7 +64,7 @@
 - 이는 플랫폼을 운영하는 사람 입장에서 한쪽으로 치우치게 되며 결과적으로 좋지 않은 현상
 ![image](https://user-images.githubusercontent.com/83954540/143733533-33714071-4326-42d4-a247-6180a5c01c3d.png)
 
-### 첨고 문헌
+### 참고 문헌
 * https://brunch.co.kr/@kakao-it/72
 * 평점과 리뷰 텍스트 감성분석을 결합한 추천시스템 향상 방안 연구
 * https://eda-ai-lab.tistory.com/528
